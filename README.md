@@ -12,6 +12,9 @@ The Monty Hall game is a probability puzzle based on a game show scenario. In th
 - The player then gets the option to either stick with their original choice or switch to the other unopened door.
 - Finally, the chosen door is opened to reveal if the player wins the car or gets a goat.
 
+![image](https://github.com/user-attachments/assets/3310456b-f230-43a3-a81b-806024c8af4d)
+
+
 ## How to Run
 
 This project is written in Python 3 and uses only standard libraries, so no additional packages are required.
