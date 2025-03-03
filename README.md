@@ -13,7 +13,7 @@ The Monty Hall game is a probability puzzle based on a game show scenario. In th
 - Finally, the chosen door is opened to reveal if the player wins the car or gets a goat.
 
 ![image](https://github.com/user-attachments/assets/3310456b-f230-43a3-a81b-806024c8af4d) \
-(Photo by: https//youtube.com/@YourMathBestie)
+                 (Photo by: https//youtube.com/@YourMathBestie)
 
 ## How to Run
 
