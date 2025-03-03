@@ -24,5 +24,5 @@ This project is written in Python 3 and uses only standard libraries, so no addi
 3. **Run the game:**  
    Open your terminal or command prompt, navigate to the project folder, and run:
    ```bash
-   python monty_hall_game.py
+   python montyhallgame.py
    ```
