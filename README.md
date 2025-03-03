@@ -1,4 +1,4 @@
-# Monty Hall Game
+# Monty Hall Python Game
 
 Welcome to the Monty Hall Game! This is a simple Python project that simulates the classic Monty Hall problem with three doors. One door hides a brand new red convertible car, while the other two hide goats. Test your luck and strategy by choosing a door, and then decide whether to stick with your choice or switch after one of the goat doors is revealed.
 
